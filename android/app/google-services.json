@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478347064101",
+    "project_id": "dhimis-app-2026",
+    "storage_bucket": "dhimis-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478347064101:android:9ec226b04bc1d87e2220cc",
+        "android_client_info": {
+          "package_name": "com.example.discount_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8v_5uQaT_XfmbE9pr65NBdKIxR0cmyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
